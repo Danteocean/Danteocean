@@ -26,19 +26,13 @@ Software Engineer with 4+ years of experience specializing in backend developmen
 * **Legacy Modernization:** Refactored and optimized enterprise legacy systems (VB.NET / SQL) into scalable .NET C# architectures.
 * **Database Optimization:** Wrote complex queries, stored procedures, and data-access layers using EF Core and Dapper to optimize performance.
 
----
-
-### 📊 GitHub Profile Highlights
+### 📊 GitHub Statistics
 
 <div align="center">
 
-![Focus](https://img.shields.io/badge/Primary_Focus-.NET_8_%2F_C%23_Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Clean_ Architecture_%26_Microservices-00599C?style=for-the-badge)
-![Database](https://img.shields.io/badge/Databases-SQL_Server_%2F_Oracle_%2F_MongoDB-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Daniel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danteocean&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ### 📫 Connect with me
 
