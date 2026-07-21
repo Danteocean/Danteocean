@@ -30,20 +30,23 @@ Software Engineer with 4+ years of experience specializing in backend developmen
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danteocean&show_icons=true&theme=radial&hide_border=true" alt="Daniel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danteocean&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danteocean&show_icons=true&theme=radial&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danteocean&layout=compact&theme=radial&hide_border=true)
+
+</div>
 
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/tu-perfil-linkedin](https://www.linkedin.com/in/danielfelipemolinacely/)" target="_blank">
+  <a href="https://www.linkedin.com/in/danielfelipemolinacely/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:daniel.molina.unillanos@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
