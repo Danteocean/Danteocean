@@ -28,13 +28,13 @@ Software Engineer with 4+ years of experience specializing in backend developmen
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Profile Highlights
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danteocean&show_icons=true&theme=radial&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danteocean&layout=compact&theme=radial&hide_border=true)
+![Focus](https://img.shields.io/badge/Primary_Focus-.NET_8_%2F_C%23_Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Clean_ Architecture_%26_Microservices-00599C?style=for-the-badge)
+![Database](https://img.shields.io/badge/Databases-SQL_Server_%2F_Oracle_%2F_MongoDB-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
